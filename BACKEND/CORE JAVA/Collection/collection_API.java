@@ -24,6 +24,7 @@ public class collection_API {
         nums.add(5);
         nums.add(8);
         nums.add(7);
+        nums.add(79);
 
         System.out.println(nums);
 
